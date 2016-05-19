@@ -56,6 +56,14 @@ h2.home-text {
   color: #FFFFFF;
 }
 
+h4.about {
+    font-family: 'Crete Round',sans-serif;
+    font-size: 28px;
+    /*line-height: 1.285714285714286em;*/
+    font-style: italic;
+    font-weight: 400;
+}
+
 .bg {
   background: url(field_tree_notext.jpg) no-repeat;
   background-size: contain;
